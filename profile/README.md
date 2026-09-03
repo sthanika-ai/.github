@@ -1,17 +1,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-light.png">
-  <img alt="Sthānika AI — targeted models for the challenges of India" src="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-dark.png?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-light.png?v=2">
+  <img alt="Sthānika AI — targeted models for the challenges of India. Built on locally rooted wisdom." src="https://raw.githubusercontent.com/sthanika-ai/.github/main/profile/assets/banner-light.png?v=2">
 </picture>
 
 <br/>
 <br/>
 
-[![Website](https://img.shields.io/badge/sthanika.ai-E8A33D?style=for-the-badge&logo=firefox&logoColor=11162A&labelColor=11162A)](https://sthanika.ai)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=11162A&labelColor=11162A)](https://huggingface.co/sthanika-ai)
-[![Contact](https://img.shields.io/badge/connect@sthanika.ai-3AA0BE?style=for-the-badge&logo=maildotru&logoColor=11162A&labelColor=11162A)](mailto:connect@sthanika.ai)
+[![Website](https://img.shields.io/badge/sthanika.ai-56BF4F?style=for-the-badge&logo=firefox&logoColor=1E281F&labelColor=1E281F)](https://sthanika.ai)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-56BF4F?style=for-the-badge&logo=huggingface&logoColor=1E281F&labelColor=1E281F)](https://huggingface.co/sthanika-ai)
+[![Contact](https://img.shields.io/badge/connect@sthanika.ai-56BF4F?style=for-the-badge&logo=maildotru&logoColor=1E281F&labelColor=1E281F)](mailto:connect@sthanika.ai)
 
 <br/>
 
@@ -32,10 +32,10 @@
 
 ## 🌾 &nbsp;Indic-KCC-Agri-Advisory-Benchmark
 
-<a href="https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"><img alt="GitHub" src="https://img.shields.io/badge/Code-11162A?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://huggingface.co/datasets/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-FFD21E?style=flat-square&logo=huggingface&logoColor=11162A"></a>
-![Languages](https://img.shields.io/badge/languages-11-E8A33D?style=flat-square)
-![Rows](https://img.shields.io/badge/rows-5%2C500-E8A33D?style=flat-square)
+<a href="https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"><img alt="Code" src="https://img.shields.io/badge/Code-1E281F?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://huggingface.co/datasets/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark"><img alt="Dataset" src="https://img.shields.io/badge/Dataset-FFD21E?style=flat-square&logo=huggingface&logoColor=1E281F"></a>
+![Languages](https://img.shields.io/badge/languages-11-56BF4F?style=flat-square)
+![Rows](https://img.shields.io/badge/rows-5%2C500-56BF4F?style=flat-square)
 
 Open-ended agricultural-advisory question answering in **11 Indian languages**, built
 from real farmer questions and the advisory answers given by human agents at India's
@@ -53,10 +53,10 @@ row ships with its round-trip translation-quality score, and nothing is silently
 
 ## 📊 &nbsp;milu-llm-evaluation
 
-<a href="https://github.com/sthanika-ai/milu-llm-evaluation"><img alt="GitHub" src="https://img.shields.io/badge/Code-11162A?style=flat-square&logo=github&logoColor=white"></a>
-![Models](https://img.shields.io/badge/models-18-E8A33D?style=flat-square)
-![Coverage](https://img.shields.io/badge/coverage-11%2F11%20languages-E8A33D?style=flat-square)
-![Reproducible](https://img.shields.io/badge/every%20figure-reproducible-3AA0BE?style=flat-square)
+<a href="https://github.com/sthanika-ai/milu-llm-evaluation"><img alt="Code" src="https://img.shields.io/badge/Code-1E281F?style=flat-square&logo=github&logoColor=white"></a>
+![Models](https://img.shields.io/badge/models-18-56BF4F?style=flat-square)
+![Coverage](https://img.shields.io/badge/coverage-11%2F11%20languages-56BF4F?style=flat-square)
+![Reproducible](https://img.shields.io/badge/every%20figure-reproducible-56BF4F?style=flat-square)
 
 A reproducible pipeline and a **completed** evaluation campaign on
 [MILU](https://arxiv.org/abs/2411.02538) — AI4Bharat and IBM's Multi-task Indic Language
@@ -91,6 +91,6 @@ produced it — so results can be independently reproduced or audited, not taken
 **Interested in Indic-language evaluation, domain-specific open models, or datasets
 grounded in real Indian public-service records?**
 
-[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-connect@sthanika.ai-E8A33D?style=for-the-badge&labelColor=11162A)](mailto:connect@sthanika.ai)
+[![Get in touch](https://img.shields.io/badge/Get%20in%20touch-connect@sthanika.ai-56BF4F?style=for-the-badge&labelColor=1E281F)](mailto:connect@sthanika.ai)
 
 </div>
