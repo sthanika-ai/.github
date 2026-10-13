@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td align="center" width="185"><h1>4</h1><b>open models</b><br/><sub>on Hugging Face</sub></td>
+<td align="center" width="185"><h1>9</h1><b>open models</b><br/><sub>on Hugging Face</sub></td>
 <td align="center" width="185"><h1>11</h1><b>public repos</b><br/><sub>code, harnesses, leaderboards</sub></td>
 </tr>
 </table>
@@ -44,7 +44,7 @@ the code that produced them is here on GitHub.
 
 | Release | Type | What it does or measures | Hugging Face | GitHub |
 |---|---|---|---|---|
-| **Sieve** (2B · 4B · 9B) | Models | Calibrated probabilities for typed questions about text or JSON, without generating text | [Collection](https://huggingface.co/collections/sthanika-ai/sieve) | [Sieve](https://github.com/sthanika-ai/Sieve) · [decision-index](https://github.com/sthanika-ai/decision-index) |
+| **Sieve** (0.8B · 2B · 4B · 9B · 27B · 31B) | Models | Calibrated probabilities for typed questions about text or JSON, without generating text | [Collection](https://huggingface.co/collections/sthanika-ai/sieve) | [Sieve](https://github.com/sthanika-ai/Sieve) · [decision-index](https://github.com/sthanika-ai/decision-index) |
 | **gemma3-12b-kcc-advisory** | Model | Crop advisory for Indian farmers in 11 languages | [Model](https://huggingface.co/sthanika-ai/gemma3-12b-kcc-advisory) | — |
 | **Indic-KCC-Agri-Advisory-Benchmark** | Benchmark | Open-ended agri-advisory QA in 11 languages | [Dataset](https://huggingface.co/datasets/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) | [Harness](https://github.com/sthanika-ai/Indic-KCC-Agri-Advisory-Benchmark) · [Leaderboard](https://github.com/sthanika-ai/Indic-Agri-Benchmark-Model-Configs) |
 | **Bharat-Knowledge-Probe (BKP-500)** | Benchmark | India-specific knowledge vs. weak arithmetic | [Dataset](https://huggingface.co/datasets/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) | [Harness](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) · [Model runs](https://github.com/sthanika-ai/BKP-500-model-runs) |
@@ -65,9 +65,14 @@ are open.
 
 | Model | Results |
 |---|---|
+| [**Sieve-0.8B**](https://huggingface.co/sthanika-ai/Sieve-0.8B) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-0.8B-decision-index-results) |
 | [**Sieve-2B**](https://huggingface.co/sthanika-ai/sieve-2b) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-2B-decision-index-results) |
+| [**Sieve-2B-v2**](https://huggingface.co/sthanika-ai/Sieve-2B-v2) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-2B-v2-decision-index-results) |
 | [**Sieve-4B**](https://huggingface.co/sthanika-ai/Sieve-4B) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-4B-decision-index-results) |
 | [**Sieve-9B**](https://huggingface.co/sthanika-ai/Sieve-9B) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-9B-decision-index-results) |
+| [**Sieve-9B-v2**](https://huggingface.co/sthanika-ai/Sieve-9B-v2) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-9B-v2-decision-index-results) |
+| [**Sieve-27B**](https://huggingface.co/sthanika-ai/Sieve-27B) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-27B-decision-index-results) |
+| [**Sieve-31B**](https://huggingface.co/sthanika-ai/Sieve-31B) | [Decision-index results](https://huggingface.co/datasets/sthanika-ai/Sieve-31B-decision-index-results) |
 
 Reproduce the full benchmark suite locally, or as a single Hugging Face Job, with
 [**decision-index**](https://github.com/sthanika-ai/decision-index).
